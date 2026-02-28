@@ -22,7 +22,7 @@
 		}
 	},
 	"settings": {
-		"lockSeconds": 5,
+		"lockSeconds": 2,
 		"volume": 50
 	}
 }
