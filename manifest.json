@@ -1,0 +1,28 @@
+{
+	"name": {
+		"en": "Siamese twins",
+		"ru": "Сиамские близнецы",
+		"ua": "Сіамські близнюки"
+	},
+	"description": {
+		"en": "A hellish incarnation of the Siamese twins from the underworld, no less 😈",
+		"ru": "Адское воплощение сиамских-близнецов из преисподни, не иначе 😈",
+		"ua": "Пекельне втілення сіамських-близнюків із пекла, не інакше 😈"
+	},
+	"author": "RocketMan",
+	"version": "1.0.0",
+	"type": "screamer",
+	"params": {
+		"video": {
+			"path": "media/SiameseTwins.webm",
+			"hideEnd": true
+		},
+		"sound": {
+			"path": "media/SiameseTwins.mp3"
+		}
+	},
+	"settings": {
+		"lockSeconds": 5,
+		"volume": 50
+	}
+}
